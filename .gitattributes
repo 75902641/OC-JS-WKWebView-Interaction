@@ -1,2 +1,2 @@
-*.h linguist-language=Objective-C 
-*.m linguist-language=Objective-C 
+*.zip linguist-language=JavaScript
+*.html linguist-language=JavaScript
